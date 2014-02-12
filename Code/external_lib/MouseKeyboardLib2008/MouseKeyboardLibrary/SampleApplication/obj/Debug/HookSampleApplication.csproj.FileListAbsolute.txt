@@ -1,0 +1,10 @@
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\bin\Debug\SampleApplication.exe
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\bin\Debug\SampleApplication.pdb
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\bin\Debug\MouseKeyboardLibrary.pdb
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\HookSampleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\SampleApplication.Properties.Resources.resources
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\SampleApplication.HookTestForm.resources
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\HookSampleApplication.csproj.GenerateResource.Cache
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\SampleApplication.exe
+C:\Users\Ross\Documents\Dropbox\Job\Insight Lab\MouseKeyboardLib2008\MouseKeyboardLibrary\SampleApplication\obj\Debug\SampleApplication.pdb

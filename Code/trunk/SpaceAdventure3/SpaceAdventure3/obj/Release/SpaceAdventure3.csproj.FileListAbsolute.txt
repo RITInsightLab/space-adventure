@@ -1,0 +1,14 @@
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\bin\Release\SpaceAdventure3.exe.config
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\bin\Release\SpaceAdventure3.exe
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\bin\Release\SpaceAdventure3.pdb
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\obj\Release\SpaceAdventure3.exe
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\obj\Release\SpaceAdventure3.pdb
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\bin\Release\MouseKeyboardLibrary.pdb
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\obj\Release\SpaceAdventure3.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\bin\Release\SpaceAdventure3.exe.manifest
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\bin\Release\SpaceAdventure3.application
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\bin\Release\KinectMouseController.dll
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\obj\Release\SpaceAdventure3.KinectManager.resources
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\obj\Release\SpaceAdventure3.csproj.GenerateResource.Cache
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\obj\Release\SpaceAdventure3.exe.manifest
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\obj\Release\SpaceAdventure3.application

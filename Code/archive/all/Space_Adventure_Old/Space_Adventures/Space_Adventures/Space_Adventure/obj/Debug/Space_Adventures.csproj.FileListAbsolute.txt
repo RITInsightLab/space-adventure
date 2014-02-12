@@ -1,0 +1,2 @@
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures\Space_Adventures\Space_Adventures\bin\Debug\Space_Adventures.exe.config
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures\Space_Adventures\Space_Adventures\obj\Debug\Space_Adventures.csprojResolveAssemblyReference.cache

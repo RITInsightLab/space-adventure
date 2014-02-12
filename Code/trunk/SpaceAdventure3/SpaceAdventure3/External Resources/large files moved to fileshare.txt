@@ -1,0 +1,6 @@
+\\insight-pc.rit.edu\KWA Science Education Technology\Space Adventure
+
+Large files cannot be checked in to git.
+
+Moved out:
+KinectSDK-v1.7-Setup.exe (227MB)

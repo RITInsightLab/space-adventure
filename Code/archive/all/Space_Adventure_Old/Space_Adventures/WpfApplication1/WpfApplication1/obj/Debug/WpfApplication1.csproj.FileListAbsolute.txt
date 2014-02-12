@@ -1,0 +1,2 @@
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config

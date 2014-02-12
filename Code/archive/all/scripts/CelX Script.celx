@@ -1,0 +1,148 @@
+-- Title: Test
+obs = celestia:getobserver()
+earth = celestia:find("earth")
+sun = celestia:find("sun")
+transit = celestia:find("Sol/Venus")
+
+-- Core Functions
+function flash(message)
+   celestia:flash(message)
+   wait(2.0)
+end
+
+function goto(bodyName)
+	body = celestia:find(bodyName) -- finds object
+	obs:follow(body)
+	obs:goto(body)
+	--flash("Welcome to " .. body:name())
+	wait(2)
+	obs:track(body)
+	wait(.5)
+end
+
+function gotoTime(year, month, day, hour, minute, second)
+	tdbTime = celestia:utctotdb(year, month, day, hour, minute, second)
+	celestia:settime(tdbTime)
+	--wait(.5)
+end
+
+-- Keyboard Handling
+-- Initialize variable to have no content:
+last_pressed_key = nil
+
+-- Define functions section:
+function celestia_keyboard_callback(key)
+   last_pressed_key = key
+   return true
+end
+
+function get_pressed_key()
+   last_pressed_key = nil
+   celestia:requestkeyboard(true)
+   while true do
+      if last_pressed_key ~= nil then
+         key = last_pressed_key
+         last_pressed_key = nil
+         celestia:requestkeyboard(false)
+         return key
+      end
+      wait(0.1)
+   end
+end
+
+-- Main CELX script section:
+
+-- Section within your script, where you want to handle keyboard input:
+while true do
+	key = get_pressed_key()
+	if key == ")" or key == "0" then
+	   valid_key = true
+	   --celestia:print("Pressed the [1] key", 5.0, -1, -1, 2, 4)
+	   goto("Sun")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [1] key
+	elseif key == "!" or key == "1" then
+	   valid_key = true
+	   --celestia:print("Pressed the [2] key", 5.0, -1, -1, 2, 4)
+	   goto("Mercury")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [2] key
+	elseif key == "@" or key == "2" then
+	   valid_key = true
+	   --celestia:print("Pressed the [2] key", 5.0, -1, -1, 2, 4)
+	   goto("Venus")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [2] key
+	elseif key == "#" or key == "3" then
+	   valid_key = true
+	   --celestia:print("Pressed the [2] key", 5.0, -1, -1, 2, 4)
+	   goto("Earth")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [2] key
+	elseif key == "$" or key == "4"  then
+	   valid_key = true
+	   --celestia:print("Pressed the [2] key", 5.0, -1, -1, 2, 4)
+	   goto("Mars")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [2] key
+	elseif key == "%" or key == "5" then
+	   valid_key = true
+	   --celestia:print("Pressed the [2] key", 5.0, -1, -1, 2, 4)
+	   goto("Jupiter")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [2] key
+	elseif key == "^" or key == "6" then
+	   valid_key = true
+	   --celestia:print("Pressed the [2] key", 5.0, -1, -1, 2, 4)
+	   goto("Saturn")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [2] key
+	elseif key == "&" or key == "7" then
+	   valid_key = true
+	   --celestia:print("Pressed the [2] key", 5.0, -1, -1, 2, 4)
+	   goto("Uranus")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [2] key
+	elseif key == "*" or key == "8" then
+	   valid_key = true
+	   --celestia:print("Pressed the [2] key", 5.0, -1, -1, 2, 4)
+	   goto("Neptune")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [2] key
+	elseif key == "(" or key == "9" then
+	   valid_key = true
+	   --celestia:print("Pressed the [2] key", 5.0, -1, -1, 2, 4)
+	   goto("Pluto")
+	   wait(0.5)
+	   -- You can add more CELX code here, specific to the [2] key
+	elseif key == "Q" or key == "q" then
+	   valid_key = true
+	 
+	   obs:goto(earth)
+	   obs:follow(earth)
+	   obs:track(sun)
+	   gotoTime(2012, 6, 5, 22, 0, 0)
+	  
+	
+	 
+	   
+	elseif key == "T" or key == "t" then
+	   valid_key = false
+	   celestia:print("Travel Mode on", 5.0, -1, -1, 2, 4)
+	   wait(0.1)
+	elseif key == "c" or key == "C" then
+	   valid_key = false
+	   celestia:print("Travel Mode off", 5.0, -1, -1, 2, 4)
+	   wait(0.1)
+	else
+	   valid_key = false
+	   celestia:print("Invalid Key", 5.0, -1, -1, 2, 4)
+	   wait(0.1)
+
+	end
+	wait(0.5)
+end
+
+-- Script
+--goto("Jupiter")
+

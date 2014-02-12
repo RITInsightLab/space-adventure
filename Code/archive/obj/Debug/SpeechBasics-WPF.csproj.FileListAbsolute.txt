@@ -1,0 +1,117 @@
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Noonan11\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Kurt\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Kurt\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Tyler\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Nocturnal\Dropbox\FrontiersII\SpaceAdventure_Beta\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\MainWindow.baml
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\MainWindow.g.cs
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\App.g.cs
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\MainWindow.baml
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\MainWindow.g.cs
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\App.g.cs
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Tyler\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Tyler\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Nocturnal\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\bin\Debug\KinectMouseController.dll
+C:\Users\Noonan11\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\bin\Debug\KinectMouseController.dll
+C:\Users\Kurt\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Kurt\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\bin\Debug\KinectMouseController.dll
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\MainWindow.baml
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\MainWindow.g.cs
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\App.g.cs
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space_Adventure\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\MainWindow.baml
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\MainWindow.g.cs
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\App.g.cs
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Gamma\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\MainWindow.baml
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\MainWindow.g.cs
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\App.g.cs
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\Space_Adventures_Current\Space Adventure\Space_Adventure\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\MainWindow.baml
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\MainWindow.g.cs
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\App.g.cs
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Jake Noel-Storr\Desktop\Space_Adventure\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache

@@ -1,0 +1,99 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>INVALID</tag>
+        <one-of>
+          <item> Sun </item>
+          <item> Mercury </item>
+          <item> Venus </item>
+          <item> Earth </item>
+          <item> Mars </item>
+          <item> Jupiter </item>
+          <item> Uranus </item>
+          <item> Saturn </item>
+          <item> Neptune </item>
+          <item> Pluto </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>TRAVELMODE</tag>
+        <one-of>
+          <item> Go to </item>
+          <item> Move to </item>
+          <item> Travel to </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SUN</tag>
+        <one-of>
+          <item> Sun </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>MERCURY</tag>
+        <one-of>
+          <item> Mercury </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>VENUS</tag>
+        <one-of>
+          <item> Venus </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>EARTH</tag>
+        <one-of>
+          <item> Earth </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>MARS</tag>
+        <one-of>
+          <item> Mars </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>JUPITER</tag>
+        <one-of>
+          <item> Jupiter </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>SATURN</tag>
+        <one-of>
+          <item> Saturn </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>URANUS</tag>
+        <one-of>
+          <item> Uranus </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>NEPTUNE</tag>
+        <one-of>
+          <item> Neptune </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>PLUTO</tag>
+        <one-of>
+          <item> Pluto </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>CANCEL</tag>
+        <one-of>
+          <item> Cancel </item>
+          <item> Wait </item>
+          <item> Scratch That </item>
+          <item> Nevermind </item>
+          <item> No </item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

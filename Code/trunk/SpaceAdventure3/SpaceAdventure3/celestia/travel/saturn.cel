@@ -1,0 +1,5 @@
+{
+select { object "Sol/Saturn" }
+follow{}
+goto { time 5 }
+}

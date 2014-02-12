@@ -1,0 +1,225 @@
+<sensor>
+	<tracker>Microsoft</tracker>
+	<mirrormode>true</mirrormode>
+	<smoothing>true</smoothing>
+	<smoothingfactor>0.5</smoothingfactor>
+	<correction>0.5</correction>
+	<prediction>0.5</prediction>
+	<jitter>0.05</jitter>
+	<deviation>0.04</deviation>
+</sensor>
+<server>
+	<transformations>Global coordinates</transformations>
+	<automaticassignment>true</automaticassignment>
+</server>
+<gestures>
+	<gesture name="ZoomIn" timeout="0">
+		<input type="3">
+			<descriptor>left hand</descriptor>
+			<descriptor>to the left</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>20</descriptor>
+			<descriptor>cm/sec</descriptor>
+		</input>
+		<input type="3">
+			<descriptor>right hand</descriptor>
+			<descriptor>to the right</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>20</descriptor>
+			<descriptor>cm/sec</descriptor>
+		</input>
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>above</descriptor>
+			<descriptor>right hand</descriptor>
+			<descriptor>at most</descriptor>
+			<descriptor>5</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>below</descriptor>
+			<descriptor>right hand</descriptor>
+			<descriptor>at most</descriptor>
+			<descriptor>5</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>in front of</descriptor>
+			<descriptor>torso</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>12</descriptor>
+			<descriptor>inches</descriptor>
+		</input>
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>in front of</descriptor>
+			<descriptor>left elbow</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>10</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="1">
+			<descriptor>right hand</descriptor>
+			<descriptor>in front of</descriptor>
+			<descriptor>right elbow</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>10</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="2">
+			<descriptor>left arm</descriptor>
+			<descriptor>at most</descriptor>
+			<descriptor>25</descriptor>
+			<descriptor>degrees</descriptor>
+		</input>
+		<input type="2">
+			<descriptor>right arm</descriptor>
+			<descriptor>at most</descriptor>
+			<descriptor>25</descriptor>
+			<descriptor>degrees</descriptor>
+		</input>
+		<output type="3">
+			<descriptor>up</descriptor>
+			<descriptor>10</descriptor>
+		</output>
+	</gesture>
+	<gesture name="ZoomOut" timeout="0">
+		<input type="3">
+			<descriptor>left hand</descriptor>
+			<descriptor>to the right</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>20</descriptor>
+			<descriptor>cm/sec</descriptor>
+		</input>
+		<input type="3">
+			<descriptor>right hand</descriptor>
+			<descriptor>to the left</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>20</descriptor>
+			<descriptor>cm/sec</descriptor>
+		</input>
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>above</descriptor>
+			<descriptor>right hand</descriptor>
+			<descriptor>at most</descriptor>
+			<descriptor>5</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>below</descriptor>
+			<descriptor>right hand</descriptor>
+			<descriptor>at most</descriptor>
+			<descriptor>5</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="2">
+			<descriptor>left arm</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>60</descriptor>
+			<descriptor>degrees</descriptor>
+		</input>
+		<input type="2">
+			<descriptor>right arm</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>60</descriptor>
+			<descriptor>degrees</descriptor>
+		</input>
+		<output type="3">
+			<descriptor>down</descriptor>
+			<descriptor>10</descriptor>
+		</output>
+	</gesture>
+	<gesture name="left" timeout="0">
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>above</descriptor>
+			<descriptor>head</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>10</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="3">
+			<descriptor>right hand</descriptor>
+			<descriptor>to the left</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>25</descriptor>
+			<descriptor>cm/sec</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>-250</descriptor>
+			<descriptor>0</descriptor>
+		</output>
+	</gesture>
+	<gesture name="right" timeout="0">
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>above</descriptor>
+			<descriptor>head</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>10</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="3">
+			<descriptor>right hand</descriptor>
+			<descriptor>to the right</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>25</descriptor>
+			<descriptor>cm/sec</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>250</descriptor>
+			<descriptor>0</descriptor>
+		</output>
+	</gesture>
+	<gesture name="up" timeout="0">
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>above</descriptor>
+			<descriptor>head</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>10</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="3">
+			<descriptor>right hand</descriptor>
+			<descriptor>up</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>25</descriptor>
+			<descriptor>cm/sec</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>0</descriptor>
+			<descriptor>250</descriptor>
+		</output>
+	</gesture>
+	<gesture name="down" timeout="0">
+		<input type="1">
+			<descriptor>left hand</descriptor>
+			<descriptor>above</descriptor>
+			<descriptor>head</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>10</descriptor>
+			<descriptor>centimeters</descriptor>
+		</input>
+		<input type="3">
+			<descriptor>right hand</descriptor>
+			<descriptor>down</descriptor>
+			<descriptor>at least</descriptor>
+			<descriptor>25</descriptor>
+			<descriptor>cm/sec</descriptor>
+		</input>
+		<output type="4">
+			<descriptor>by relative distance</descriptor>
+			<descriptor>0</descriptor>
+			<descriptor>-250</descriptor>
+		</output>
+	</gesture>
+</gestures>
+

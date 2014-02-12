@@ -1,0 +1,34 @@
+Research - 1/11/13
+	New Speech recognition
+	New Simulation software
+
+Requirements - 1/20/13
+	Complete Space Adventure SRS
+
+Design - 
+	Complete Space Adventure class diagrams and sequence diagrams
+
+Development
+	C# prototype using kinect that will trace when each motion is captured
+		Kinect automatically loads on start
+		left hand
+		right hand
+		left + right hand
+		arms open
+		arms closed
+		TEST:
+			height
+			multiple people
+			
+	C# prototype using speech that will trace when each voice command is captured
+		Kinect automatically loads on start
+		"Travel to" and alternates
+		each planetary body
+		"zoom in/out"
+	
+	C# Prototype that will load up space simulation
+		Allow manual keyboard+mouse interactions
+			travel to each planet
+			zoom on each planet
+
+	Integrate prototypes, map "traces" to simulation commands, keep keyboard+mouse as alternates

@@ -1,0 +1,16 @@
+d:\users\shai raiten\documents\visual studio 2010\Projects\KinectDo\KinectDo\bin\Debug\KinectDo.exe.config
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\bin\Debug\KinectDo.exe.config
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\bin\Debug\KinectDo.exe
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\bin\Debug\KinectDo.pdb
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\bin\Debug\Microsoft.Speech.dll
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\MainWindow.baml
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\App.g.cs
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\KinectDo_MarkupCompile.cache
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\KinectDo.g.resources
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\KinectDo.Properties.Resources.resources
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\KinectDo.exe
+C:\Users\Jake Noel-Storr\Dropbox\FrontiersII\KinectDo\KinectDo\obj\x86\Debug\KinectDo.pdb

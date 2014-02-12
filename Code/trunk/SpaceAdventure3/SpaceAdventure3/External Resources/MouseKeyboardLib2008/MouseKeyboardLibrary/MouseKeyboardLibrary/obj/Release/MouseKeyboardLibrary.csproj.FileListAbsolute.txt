@@ -1,0 +1,5 @@
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.dll
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.pdb
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.dll
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.pdb

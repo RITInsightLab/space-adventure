@@ -1,0 +1,31 @@
+#summary Various bugs to fix for the next release of Space Adventure
+
+= Introduction =
+
+  # _Bug Name_
+    * *Description:* 
+
+
+
+
+
+
+= Bugs =
+
+  1. _Consolidate Scripts to One File_
+    * Right now, each travel command is in a different celestia script. A better way to do this would be to find some way to pass in command-line arguments to a celestia script, and have it look up a _function_ relating to the behavior we want. That would be much cleaner.
+
+  3. _Clean up in-line documentation_
+    * Make sure code is readable and understandable
+
+  4. _Clean up written documentation_
+    * Make sure SRS and use-case is correct and complete
+
+  5. _Package Space Adventure into executable_
+    * There needs to be a single executable file to launch the program
+
+  6. _Test on Projectors_
+    * It needs to be tested on the fully set-up project
+
+  7. _Protect Archive from Stupid People_
+    * Move it to a server and add a note, extract most useful info

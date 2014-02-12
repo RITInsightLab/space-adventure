@@ -1,0 +1,37 @@
+{
+ #------------------------------------------------------------------
+ # Written by: Ross Kahn
+ #         on: 2/11/13
+ #
+ # SPACE ADVENTURE 3.0
+ #------------------------------------------------------------------
+ # Set Celestia values (modify to meet your needs)...
+ #------------------------------------------------------------------
+ # Render the following objects...
+     renderflags { set "cloudmaps|planets|stars" }
+
+ # Unmark all objects...
+     unmarkall {}
+
+ # Set Field of View...
+     set { name "FOV" value 30.0 }
+
+ # Set Time Rate (1x, 100x, 1000x, etc.)...
+     timerate { rate 1.0 }
+ #------------------------------------------------------------------
+ # Script Body - Your code goes here ...
+ #------------------------------------------------------------------
+	print { text "Welcome to Space Adventure 3.0!" row -3 }
+	wait { duration 2.0 }
+	select { object "Sol/Earth" }
+	cancel {}
+	goto { time 0 distance 5 upframe "ecliptical" }
+	synchronous {}
+	# gotoloc { time 0.0 position [ 0 0 20000 ] }
+	
+	# gotolonglat { time 0 distance 3 longitude -122 latitude 47 }
+	wait { duration 0.1 }
+	center { time 0.1 }
+	wait { duration 1.0 }
+	follow {}
+}

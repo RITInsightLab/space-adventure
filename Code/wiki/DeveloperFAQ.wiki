@@ -1,0 +1,18 @@
+#summary Developer quick reference with links
+#labels FAQ,Quick,Reference
+
+= Space Adventure 3.0=
+
+==This page is a quick-reference for links and things to know.==
+
+
+= Details =
+
+  *[http://www.Wrike.com Wrike Task Management System
+  *[http://code.google.com/p/space-adventure/ Google Code homepage for Space Adventure
+  *[http://code.google.com/p/space-adventure/w/list Homepage for this wiki
+
+= External Libraries =
+  * Bash: Bash needs to be installed. A Bash script is used to load up the necessary external programs (e.g. Celestia and Kinect)
+
+  * Celestia: Celestia MUST be installed on the system. The executable is in the external_library folder of the source code

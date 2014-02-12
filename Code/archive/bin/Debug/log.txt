@@ -1,0 +1,16 @@
+--------------------------------
+11/29/2012 11:29:57 AM
+Finding potential sensors...
+	Sensor Found: Microsoft.Kinect.KinectSensor
+	Sensor Status: Connected
+Starting sensor...
+Sensor running successfully
+Loading Hand Actions...
+Hand action load complete
+Sensor Skeleton Stream enabled
+Starting Celestia script at 11/29/2012 11:30:05 AM...
+Celestia Process started
+
+Creating speech grammar...
+Speech grammar created
+Speech recognizer created

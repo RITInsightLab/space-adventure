@@ -1,0 +1,10 @@
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Release\GlobalMacroRecorder.exe
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Release\GlobalMacroRecorder.pdb
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Release\MouseKeyboardLibrary.dll
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\bin\Release\MouseKeyboardLibrary.pdb
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Release\GlobalMacroRecorder.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Release\GlobalMacroRecorder.MacroForm.resources
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Release\GlobalMacroRecorder.Properties.Resources.resources
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Release\GlobalMacroRecorder.csproj.GenerateResource.Cache
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Release\GlobalMacroRecorder.exe
+C:\Users\Ross\Desktop\space-adventure\SpaceAdventure3\SpaceAdventure3\External Resources\MouseKeyboardLib2008\MouseKeyboardLibrary\GlobalMacroRecorder\obj\Release\GlobalMacroRecorder.pdb

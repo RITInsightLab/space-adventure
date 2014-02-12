@@ -1,0 +1,11 @@
+#summary Details on setting up SA SVN in Visual Studio
+#labels SVN,Tutorial,AnkhSVN
+
+= Tutorial =
+
+  * Download Visual Studio 2012 from MSDNA (http://www.se.rit.edu/software-vendor-alliances)
+  * Download AnkhSVN (http://visualstudiogallery.msdn.microsoft.com/E721D830-7664-4E02-8D03-933C3F1477F2)
+  * Install AnkhSVN according to the instructions
+  * Open Visual Studio 2012
+  * Go to *Tools* > *Options* and click on *Plug-in Selection* under the *Source Control* label
+  * Select AnkhSVN from the drop-down list
